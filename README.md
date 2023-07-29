@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Soubhagyaranjan Das</h1>
 <h3 align="center">Intrested In GameDevlopement,AI for NPCs and Information security</h3>
-<img align="right" alt="anime" src="https://tenor.com/wpx2.gif">
+<img align="right" src="https://media.tenor.com/ji5Mpqf8APoAAAAC/kikis-delivery-service-grass.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticaccess&label=Profile%20views&color=0e75b6&style=flat" alt="staticaccess" /> </p>
 
