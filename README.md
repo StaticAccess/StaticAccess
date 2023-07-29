@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Soubhagyaranjan Das</h1>
-<h3 align="center">Intrested In GameDevlopement,AI for NPCs and Information security</h3>
-<img align="right" src="https://media.tenor.com/ji5Mpqf8APoAAAAC/kikis-delivery-service-grass.gif">
+<h3 align="center">Intrested In GameDevlopement,AI for NPCs ,Information security and I love anime most.</h3>
+<img align="right" width="1200" src="https://media.tenor.com/MGBeka7ceIYAAAAC/studio-ghibli.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticaccess&label=Profile%20views&color=0e75b6&style=flat" alt="staticaccess" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dassoubhagyaranjan26@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:) x.com/StaticAccess</h3>
 <p align="left">
 </p>
 
@@ -24,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staticaccess&show_icons=true&locale=en" alt="staticaccess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staticaccess&" alt="staticaccess" /></p>
+<img align="center"  width="1200" src="https://media.tenor.com/hImbWscIcdkAAAAC/studio-ghibli.gif">
+<h1 align="center"><b>GOOD BYE,Hope you  visit again!</b></h1>
+<img align="right"  width="1200" src="https://media.tenor.com/PrILGroc9GoAAAAC/studio-ghibli.gif">
 
